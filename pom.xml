@@ -46,12 +46,14 @@
             <email>matti@vaadin.com</email>
         </developer>
         <developer>
+            <name>Peter Lehto</name>
+            <organization>Vaadin</organization>
+            <email>peter@vaadin.com</email>
+        </developer>
+        <developer>
             <name>Petter Holmström</name>
             <organization>Vaadin</organization>
             <email>petter@vaadin.com</email>
-            <roles>
-                <role>Development lead</role>
-            </roles>
         </developer>
     </developers>
 
